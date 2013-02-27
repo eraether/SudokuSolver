@@ -1,0 +1,103 @@
+C:\Users\Eugene\Desktop\Programming Blog\Sudoku Solver>python runner.py puzzle11
+.txt
+Loaded Sudoku: puzzle11.txt
+#arto incada, aka the world's hardest sudoku puzzle
+8--------
+--36-----
+-7--9-2--
+-5---7---
+----457--
+---1---3-
+--1----68
+--85---1-
+-9----4--
+Solving Sudoku:
+Sudoku successfully solved!
+Moves taken: 976
+812753649
+943682175
+675491283
+154237896
+369845721
+287169534
+521974368
+438526917
+796318452
+
+C:\Users\Eugene\Desktop\Programming Blog\Sudoku Solver>python runner.py puzzle11
+.txt
+Loaded Sudoku: puzzle11.txt
+#arto incada, aka the world's hardest sudoku puzzle
+8--------
+--36-----
+-7--9-2--
+-5---7---
+----457--
+---1---3-
+--1----68
+--85---1-
+-9----4--
+Solving Sudoku:
+Sudoku successfully solved!
+Moves taken: 5151
+812753649
+943682175
+675491283
+154237896
+369845721
+287169534
+521974368
+438526917
+796318452
+
+C:\Users\Eugene\Desktop\Programming Blog\Sudoku Solver>python runner.py puzzle11
+.txt
+Loaded Sudoku: puzzle11.txt
+#arto incada, aka the world's hardest sudoku puzzle
+8--------
+--36-----
+-7--9-2--
+-5---7---
+----457--
+---1---3-
+--1----68
+--85---1-
+-9----4--
+Solving Sudoku:
+Sudoku successfully solved!
+Moves taken: 6984
+812753649
+943682175
+675491283
+154237896
+369845721
+287169534
+521974368
+438526917
+796318452
+
+C:\Users\Eugene\Desktop\Programming Blog\Sudoku Solver>python runner.py puzzle11
+.txt
+Loaded Sudoku: puzzle11.txt
+#arto incada, aka the world's hardest sudoku puzzle
+8--------
+--36-----
+-7--9-2--
+-5---7---
+----457--
+---1---3-
+--1----68
+--85---1-
+-9----4--
+Solving Sudoku:
+Sudoku successfully solved!
+Moves taken: 5373
+812753649
+943682175
+675491283
+154237896
+369845721
+287169534
+521974368
+438526917
+796318452

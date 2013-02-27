@@ -1,0 +1,33 @@
+C:\Users\Eugene\Desktop\Programming Blog\Sudoku Solver>python runner.py puzzle6.txt
+Loaded Sudoku: puzzle6.txt
+#easyish puzzle
+-27---5--
+6-----9-3
+9---5--2-
+--5-4--7-
+---7-6---
+-7--1-8--
+-1--9---4
+3-4-----1
+--2---79-
+Solving Sudoku:
+Guessing (0,8) to be 6, [6, 8] available.
+Guessing (0,4) to be 8, [3, 8] available.
+Guessing (0,0) to be 1, [1, 4] available.
+Unsolvable state detected
+Popping stack, and re-guessing (0,0) to be 4, [4] available.
+Guessing (0,3) to be 3, [3, 9] available.
+Guessing (1,3) to be 4, [2, 4] available.
+Guessing (1,4) to be 7, [2, 7] available.
+Guessing (2,1) to be 8, [3, 8] available.
+Sudoku successfully solved!
+Moves taken: 60
+427389516
+651472983
+983651427
+135948672
+849726135
+276513849
+718295364
+394867251
+562134798
